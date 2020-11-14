@@ -95,7 +95,8 @@ def runner
   hit?(current_card_total)
   # code runner here
   count += 1
+  end_game
 end
-end_game
+
 end
     
