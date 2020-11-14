@@ -91,7 +91,7 @@ def runner
   initial_round
   prompt_user
   
-  until count == 21
+  until count >= 21
   
   # code runner here
   count += 1
