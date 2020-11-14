@@ -99,6 +99,7 @@ def runner
   count += 1
   
 end
-return end_game(card_total)
+return prompt_user
+#return end_game(card_total)
 end
     
