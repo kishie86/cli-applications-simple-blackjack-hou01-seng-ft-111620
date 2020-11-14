@@ -95,7 +95,7 @@ def runner
   
   
   until count >= 21
-  hit?(current_card_total)
+  prompt_user
   card_total
   # code runner here
   count += 1
