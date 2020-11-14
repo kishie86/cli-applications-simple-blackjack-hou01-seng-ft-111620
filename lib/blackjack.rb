@@ -90,10 +90,10 @@ def runner
   count = 0 
   welcome
   initial_round
-  
+  card_total = initial_round
   
   until count >= 21
-  card_total = initial_round
+  hit?(current_card_total)
   # code runner here
   count += 1
   
