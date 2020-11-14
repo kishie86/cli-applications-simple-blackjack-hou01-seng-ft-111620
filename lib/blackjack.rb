@@ -94,6 +94,7 @@ def runner
   until count == 21
   
   # code runner here
+  count += 1
 end
 end
     
