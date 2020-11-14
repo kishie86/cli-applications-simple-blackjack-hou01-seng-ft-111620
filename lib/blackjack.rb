@@ -89,7 +89,6 @@ end
 def runner
   count = 0 
   welcome
-  initial_round
   card_total = initial_round
   
   #binding.pry
