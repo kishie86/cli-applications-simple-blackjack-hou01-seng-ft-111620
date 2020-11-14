@@ -91,7 +91,7 @@ def runner
   initial_round
   prompt_user
   
-  while count  20
+  until count == 21
   
   # code runner here
 end
