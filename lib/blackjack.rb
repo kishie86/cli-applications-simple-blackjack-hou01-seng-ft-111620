@@ -98,6 +98,6 @@ def runner
   count += 1
   
 end
-end_game
+end_game(card_total)
 end
     
