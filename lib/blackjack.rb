@@ -91,12 +91,14 @@ def runner
   welcome
   initial_round
   card_total = initial_round
+  
+  binding.pry
 
   
   
   until count >= 21
   prompt_user
-  puts card_total
+  card_total
   # code runner here
   count += 1
   
