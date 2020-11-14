@@ -97,12 +97,13 @@ def runner
   
   
   until count >= 21
-  prompt_user
+  #
   card_total
   # code runner here
   count += 1
   
 end
-return end_game(card_total)
+#return end_game(card_total)
+prompt_user
 end
     
