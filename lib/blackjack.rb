@@ -92,7 +92,7 @@ def runner
   
   
   until count >= 21
-  initial_round
+  #initial_round
   # code runner here
   count += 1
   
