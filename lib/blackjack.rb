@@ -91,7 +91,7 @@ def runner
   welcome
   initial_round
   hits?
-  di
+  display_card_total
   card_total = initial_round
   
   until count >= 21
