@@ -96,7 +96,7 @@ def runner
   
   until count >= 21
   prompt_user
-  card_total
+  puts card_total
   # code runner here
   count += 1
   
