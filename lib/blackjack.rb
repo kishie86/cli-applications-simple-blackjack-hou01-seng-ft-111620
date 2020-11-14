@@ -89,12 +89,13 @@ def runner
   count = 0 
   welcome
   initial_round
-  prompt_user
+  hit?(current_card_total)
   
   until count >= 21
   hit?(current_card_total)
   # code runner here
   count += 1
 end
+end_game
 end
     
