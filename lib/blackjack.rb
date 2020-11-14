@@ -93,9 +93,6 @@ def runner
   card_total = initial_round
   
   #binding.pry
-
-  
-  
   until count >= 21
   prompt_user
   card_total
