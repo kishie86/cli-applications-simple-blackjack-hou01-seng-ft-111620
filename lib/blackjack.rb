@@ -92,7 +92,7 @@ def runner
   prompt_user
   
   until count >= 21
-  
+  hit?
   # code runner here
   count += 1
 end
