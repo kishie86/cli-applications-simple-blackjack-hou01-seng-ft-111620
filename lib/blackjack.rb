@@ -94,7 +94,7 @@ def runner
   
   
   until count >= 21
- 
+ card_total
   # code runner here
   count += 1
   
