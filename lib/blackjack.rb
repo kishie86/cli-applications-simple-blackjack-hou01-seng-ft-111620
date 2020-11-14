@@ -86,9 +86,13 @@ end
 #####################################################
 
 def runner
-  # code runner here
+  count = 0 
   welcome
   initial_round
   prompt_user
+  
+  
+  
+  # code runner here
 end
     
