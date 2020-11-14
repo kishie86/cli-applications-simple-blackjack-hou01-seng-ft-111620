@@ -92,7 +92,7 @@ def runner
   initial_round
   card_total = initial_round
   
-  binding.pry
+  #binding.pry
 
   
   
