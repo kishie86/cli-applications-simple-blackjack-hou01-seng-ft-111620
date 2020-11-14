@@ -90,6 +90,8 @@ def runner
   count = 0 
   welcome
   initial_round
+  hits?
+  di
   card_total = initial_round
   
   until count >= 21
