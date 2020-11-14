@@ -90,7 +90,7 @@ def runner
   count = 0 
   welcome
   initial_round
-  hits?
+  hits?(current_card_total)
   display_card_total
   card_total = initial_round
   
